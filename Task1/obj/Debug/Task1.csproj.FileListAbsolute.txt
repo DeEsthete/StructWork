@@ -1,0 +1,6 @@
+C:\Users\djoni\source\repos\StructLessonWork\Task1\bin\Debug\Task1.dll
+C:\Users\djoni\source\repos\StructLessonWork\Task1\bin\Debug\Task1.pdb
+C:\Users\djoni\source\repos\StructLessonWork\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\djoni\source\repos\StructLessonWork\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\StructLessonWork\Task1\obj\Debug\Task1.dll
+C:\Users\djoni\source\repos\StructLessonWork\Task1\obj\Debug\Task1.pdb

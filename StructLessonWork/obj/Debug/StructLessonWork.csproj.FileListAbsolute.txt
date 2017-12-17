@@ -1,0 +1,11 @@
+C:\Users\djoni\source\repos\StructLessonWork\StructLessonWork\bin\Debug\StructLessonWork.exe.config
+C:\Users\djoni\source\repos\StructLessonWork\StructLessonWork\bin\Debug\StructLessonWork.exe
+C:\Users\djoni\source\repos\StructLessonWork\StructLessonWork\bin\Debug\StructLessonWork.pdb
+C:\Users\djoni\source\repos\StructLessonWork\StructLessonWork\bin\Debug\Task1.dll
+C:\Users\djoni\source\repos\StructLessonWork\StructLessonWork\bin\Debug\Task1.pdb
+C:\Users\djoni\source\repos\StructLessonWork\StructLessonWork\obj\Debug\StructLessonWork.csprojResolveAssemblyReference.cache
+C:\Users\djoni\source\repos\StructLessonWork\StructLessonWork\obj\Debug\StructLessonWork.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\StructLessonWork\StructLessonWork\obj\Debug\StructLessonWork.exe
+C:\Users\djoni\source\repos\StructLessonWork\StructLessonWork\obj\Debug\StructLessonWork.pdb
+C:\Users\djoni\source\repos\StructLessonWork\StructLessonWork\bin\Debug\Task2.dll
+C:\Users\djoni\source\repos\StructLessonWork\StructLessonWork\bin\Debug\Task2.pdb
